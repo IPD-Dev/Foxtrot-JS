@@ -1,4 +1,5 @@
 # FoxTrot-JS
+Original can be found here: https://github.com/IPD-Dev/Foxtrot/
 ## Installation
 ```
 npm i
